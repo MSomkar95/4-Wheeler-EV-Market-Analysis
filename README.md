@@ -1,9 +1,27 @@
 # 4-WHEELER EV MARKET ANALYSIS-2024
+## Table of Contents
+- [Business Objective](#business-objective)
+- [Dataset](#dataset)
+- [Data Model](#data-model)
+- [KPIs Evaluated](#kpis-evaluated)
+- [Key DAX Measures](#key-dax-measures)
+- [Demo Preview](#demo-preview)
+- [Languages and Technologies](#languages-and-technologies)
+- [Business Impact](#business-impact)
+
+## Business Objective
+- An ambitious project based on 2024 IEA Global EV Outlook Report, whose purpose is basically for strategic planning.
+Ascertains the current market scenario using data highlighting the performance analysis of the markets across different areas like stock, sales, stock share, sales share, availability 
+of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
+- The region focused in this analysis are: USA, China, Japan, Europe, India and the World (for reference)
+- Prediction based on APS (Announced Pledges Scenario) and STEPS (Sustainable Development Scenario) are respectively present in the dataset and is also analyzed to chart the path ahead of the 
+ probable factors which could drive the EV Market further for e.g. India currently has only a 2% market penetration, this study could help us understand the probable factors which could drive the further growth in the country.
+
+          APS: Ambitious approach which assumes the introduction of innovative policies
+          STEPS: Conservative approach assuming the continuation of present policy
+
 ## Dataset 
 IEA’s Global 4 Wheeler EV Outlook [Dataset](https://docs.google.com/spreadsheets/d/1Tnu0iayO5ln3iYOBU6ksexbFnY3hJNB9/edit?usp=drive_link&ouid=104075893283661227619&rtpof=true&sd=true), a valuable data source offering comprehensive insights into the global EV market.
-
-## Aim 
-To ascertain the current market scenario using data, throwing light on the performance analysis of the market across different areas like stock, sales, stock share, sales share, availability of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
 
 ## Data Model 
 <img width="886" alt="Image" src="https://github.com/user-attachments/assets/1713a0b0-5b6a-441c-b17e-00d08d3c2cad" />
