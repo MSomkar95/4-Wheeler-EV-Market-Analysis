@@ -6,7 +6,7 @@ IEA’s Global 4 Wheeler EV Outlook [Dataset](https://docs.google.com/spreadshee
 To ascertain the current market scenario using data, throwing light on the performance analysis of the market across different areas like stock, sales, stock share, sales share, availability of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
 
 ## Data Model 
-
+<img width="886" alt="Image" src="https://github.com/user-attachments/assets/1713a0b0-5b6a-441c-b17e-00d08d3c2cad" />
 ## KPIs Evaluated
 ## Key DAX Measures
 ## Languages and Technologies
