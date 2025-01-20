@@ -1,10 +1,15 @@
 # EV Market Analysis-2024
 ## Dataset 
-IEA’s Global EV Outlook [Dataset](https://docs.google.com/spreadsheets/d/1Tnu0iayO5ln3iYOBU6ksexbFnY3hJNB9/edit?usp=drive_link&ouid=104075893283661227619&rtpof=true&sd=true), a valuable data source offering comprehensive insights into the global EV market.
+IEA’s Global 4 Wheeler EV Outlook [Dataset](https://docs.google.com/spreadsheets/d/1Tnu0iayO5ln3iYOBU6ksexbFnY3hJNB9/edit?usp=drive_link&ouid=104075893283661227619&rtpof=true&sd=true), a valuable data source offering comprehensive insights into the global EV market.
 
 ## Aim 
-To ascertain the current market scenario using data and numbers throwing light on the performance analysis of the market across different areas like stock, sales, stock share, sales share, availability of charging facilities, framing informed actionable recommentations for the EV businesses to work on.
+To ascertain the current market scenario using data, throwing light on the performance analysis of the market across different areas like stock, sales, stock share, sales share, availability of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
 
+## Data Model 
+
+## KPIs Evaluated
+## Key DAX Measures
+## Languages and Technologies
 ## Languages and Technologies
 1. MS Excel for preliminary analysis.
 2. DAX for backend operations i.e. to build calculative measures and columns.
