@@ -30,33 +30,7 @@ To ascertain the current market scenario using data, throwing light on the perfo
     
 ## Key DAX Measures
 ### Year On Year Increase in Electricity Demand (4-Wheeler EV)
-
-'''DAX
-YoY_Electricity Demand% = 
-VAR CurrentYear = SELECTEDVALUE(Dim_date[Year])
-VAR CurrentYearStock =
-    CALCULATE (
-        SUM(Main[Value]),
-        Dim_Parameter[Parameter] = "Electricity Demand",
-        Dim_date[Year] = CurrentYear // Using direct filtering for clarity
-    )
-VAR PreviousYearStock =
-    CALCULATE (
-        SUM(Main[Value]),
-        Dim_Parameter[Parameter] = "Electricity Demand",
-        Dim_date[Year] = CurrentYear - 1 // Directly referencing the previous year
-    )
-RETURN
-    IF(
-        NOT(ISBLANK(PreviousYearStock)) && PreviousYearStock <> 0, // Check for zero as well
-        DIVIDE(CurrentYearStock - PreviousYearStock, PreviousYearStock)*100,
-        BLANK()
-    )
-    
-### % Change in the EV Charging infrastructure (Last 5 years)
-
-'''DAX
-
+```DAX
 % EV charging_gwth L5Y = 
 VAR SelectedRegion = SELECTEDVALUE ( Dim_Region[Region] )
 VAR CurrentYear = 2023 // or whatever the current end year is
@@ -85,7 +59,40 @@ RETURN
         DIVIDE ( CurrentYeardata - PreviousYeardata, PreviousYeardata ),
         BLANK ()
     )
-    
+```    
+### % Change in the EV Charging infrastructure (Last 5 years)
+```DAX
+
+% EV charging_gwth L5Y = 
+    VAR SelectedRegion = SELECTEDVALUE ( Dim_Region[Region] )
+    VAR CurrentYear = 2023 // or whatever the current end year is
+    VAR StartYear = 2019 // calculate from 3 years ago 
+    VAR CurrentYeardata =
+    CALCULATE (
+        SUM ( Main[Value] ),
+        Dim_Category[Category] = "Historical",
+        Dim_Parameter[Parameter] = "EV charging points",
+       Dim_date[Year]= CurrentYear,
+        Dim_Region[Region] = SelectedRegion
+    )
+    VAR PreviousYeardata =
+    CALCULATE (
+        SUM ( Main[Value] ),
+        Dim_Category[Category] = "Historical",
+        Dim_Parameter[Parameter] = "EV charging points",
+        Dim_date[Year]= StartYear,
+        Dim_Region[Region] = SelectedRegion
+    )
+    RETURN
+    IF (
+        NOT ISBLANK ( CurrentYeardata )
+            && NOT ISBLANK ( PreviousYeardata )
+            && PreviousYeardata <> 0,
+        DIVIDE ( CurrentYeardata - PreviousYeardata, PreviousYeardata ),
+        BLANK ()
+    ) 
+```
+
 ## Demo Preview
 1.
 <img width="584" alt="Image" src="https://github.com/user-attachments/assets/89cd9ba9-17e9-41a6-ad74-8c7ef7ea6db9" />
