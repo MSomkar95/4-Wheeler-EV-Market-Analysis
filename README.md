@@ -1,7 +1,7 @@
 # 4-WHEELER EV MARKET ANALYSIS-2024
 - [4 WHEELER EV Global Market Analysis](https://drive.google.com/file/d/1PgO8HBE7IFmpd0m69toSzl3o8lkHtMDh/view?usp=drive_link)
 - [Preview Dashboard](https://project.novypro.com/VAmAc0)
-- **Use case for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheeelers vehicle segment.**
+- **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
 ## Table of Contents
 - [Business Objective](#business-objective)
 - [Dataset](#dataset)
