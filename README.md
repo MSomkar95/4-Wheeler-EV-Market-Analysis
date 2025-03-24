@@ -1,6 +1,7 @@
 # 4-WHEELER EV MARKET ANALYSIS-2024
 - [4 WHEELER EV Global Market Analysis](https://drive.google.com/file/d/1PgO8HBE7IFmpd0m69toSzl3o8lkHtMDh/view?usp=drive_link)
 - [Preview Dashboard](https://project.novypro.com/VAmAc0)
+- **Use case for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheeelers vehicle segment.**
 ## Table of Contents
 - [Business Objective](#business-objective)
 - [Dataset](#dataset)
@@ -124,10 +125,11 @@ RETURN
 <img width="593" alt="Image" src="https://github.com/user-attachments/assets/ef3e886d-5c16-47fe-b134-780878a7aac5" />
 
 ## Languages and Technologies
-1. MS Excel for preliminary analysis.
-2. DAX for backend operations i.e. to build calculative measures and columns.
-3. Power Query (M language) for data preparation and reshaping of data.
-4. Power BI for visualization. Charts and graphs will be employed to reveal trends and patterns in the EV market data.
+1. **MS Excel** for preliminary analysis.
+2. **DAX** for backend operations i.e. to build calculative measures and columns.
+3. **Power Query (M language)** for data preparation and reshaping of data.
+4. **Power BI** for visualization. Charts and graphs will be employed to reveal trends and patterns in the EV market data.
+5. **FIGMA** for building the Wireframe.
 
 ## Business Impact
 Actionable recommendations for stakeholders in the EV market, based on data-driven insights. This could include suggestions for government policy, infrastructure development, or industry innovation.
