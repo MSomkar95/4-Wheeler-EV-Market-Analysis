@@ -1,19 +1,19 @@
 # 4-WHEELER EV MARKET ANALYSIS-2024
-- [4 WHEELER EV Global Market Analysis](https://drive.google.com/file/d/1PgO8HBE7IFmpd0m69toSzl3o8lkHtMDh/view?usp=drive_link)
-- [Preview Dashboard](https://project.novypro.com/VAmAc0)
 - **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
+-  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://www.datascienceportfol.io/dataInsightsOmkar/projects/0)
+    
+- [Preview Dashboard](https://project.novypro.com/VAmAc0)
 ## Table of Contents
 - [Business Objective](#business-objective)
 - [Dataset](#dataset)
 - [Data Model](#data-model)
 - [KPIs Evaluated](#kpis-evaluated)
 - [Key DAX Measures](#key-dax-measures)
-- [Demo Preview](#demo-preview)
 - [Languages and Technologies](#languages-and-technologies)
 - [Business Impact](#business-impact)
 
 ## Business Objective
-- An ambitious project based on 2024 IEA Global EV Outlook Report, whose purpose is basically for strategic planning.
+- An ambitious project based on 2024 IEA Global EV Outlook Report, whose purpose is intended for strategic planning.
 Ascertains the current market scenario using data highlighting the performance analysis of the markets across different areas like stock, sales, stock share, sales share, availability 
 of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
 - The region focused in this analysis are: USA, China, Japan, Europe, India and the World (for reference)
@@ -114,16 +114,6 @@ RETURN
     ) 
 ```
 
-## Demo Preview
-1.
-<img width="584" alt="Image" src="https://github.com/user-attachments/assets/89cd9ba9-17e9-41a6-ad74-8c7ef7ea6db9" />
-
-2.
-<img width="583" alt="Image" src="https://github.com/user-attachments/assets/5668508a-9add-4883-9fe3-d88cfed4206b" />
-
-3.
-<img width="593" alt="Image" src="https://github.com/user-attachments/assets/ef3e886d-5c16-47fe-b134-780878a7aac5" />
-
 ## Languages and Technologies
 1. **MS Excel** for preliminary analysis.
 2. **DAX** for backend operations i.e. to build calculative measures and columns.
@@ -132,5 +122,5 @@ RETURN
 5. **FIGMA** for building the Wireframe.
 
 ## Business Impact
-Actionable recommendations for stakeholders in the EV market, based on data-driven insights. This could include suggestions for government policy, infrastructure development, or industry innovation.
+- Actionable recommendations for stakeholders in the EV market, based on data-driven insights. This could include suggestions for government policy, infrastructure development, or industry innovation.
 
