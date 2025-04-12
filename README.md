@@ -2,7 +2,7 @@
 - **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
 -  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://www.datascienceportfol.io/dataInsightsOmkar/projects/0)
     
-- [Preview Dashboard](https://project.novypro.com/VAmAc0)
+! [image alt](https://github.com/MSomkar95/4-Wheeler-EV-Market-Analysis/blob/efb49f53c287d7053e45a0031726cfadd285b1c1/EV%20Overview.png)
 ## Table of Contents
 - [Business Objective](#business-objective)
 - [Dataset](#dataset)
