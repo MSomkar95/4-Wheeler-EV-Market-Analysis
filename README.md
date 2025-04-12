@@ -1,11 +1,15 @@
 # 4-WHEELER EV MARKET ANALYSIS-2024
+
+![File_Thumbnail](https://github.com/user-attachments/assets/bde9f1ce-c069-4ca8-b051-bc8bb6e86f1f)
+
 - **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
--  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://www.datascienceportfol.io/dataInsightsOmkar/projects/0)
-    
+-  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://www.datascienceportfol.io/dataInsightsOmkar/projects/0)  
+
 
 ## Table of Contents
 - [Business Objective](#business-objective)
 - [Dataset](#dataset)
+- [Dashboard](#dashboard)
 - [Data Model](#data-model)
 - [KPIs Evaluated](#kpis-evaluated)
 - [Key DAX Measures](#key-dax-measures)
@@ -26,8 +30,31 @@ of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand b
 ## Dataset 
 IEA’s Global 4 Wheeler EV Outlook [Dataset](https://docs.google.com/spreadsheets/d/1Tnu0iayO5ln3iYOBU6ksexbFnY3hJNB9/edit?usp=drive_link&ouid=104075893283661227619&rtpof=true&sd=true), a valuable data source offering comprehensive insights into the global EV market.
 
+## Dashboard
+
+#### Global EV Market Overview
+<img width="616" alt="EV Overview" src="https://github.com/user-attachments/assets/429d5417-1577-465d-b73e-0b38b1e3d87e" />
+
+#### EV Market Trends (2010-2023)
+<img width="617" alt="Historical EV Market 2010-23" src="https://github.com/user-attachments/assets/3b248f34-c138-4242-9938-6407d87e49fd" />
+
+#### EV Transition Performance Metrics
+<img width="616" alt="EV Transition Metrics" src="https://github.com/user-attachments/assets/0d83fa2e-234d-4d46-8cab-99ccf6f1be01" />
+
+#### EV Market Projections (2025-35)
+<img width="616" alt="EV Projections 2025-35" src="https://github.com/user-attachments/assets/e7e881b9-c456-49fb-baff-4ca83cb1566f" />
+
+#### The Indian EV Leadsrship Blueprint
+<img width="616" alt="Indian EV Story" src="https://github.com/user-attachments/assets/b344eadb-44f8-43cd-b1d6-7f2daa7b060f" />
+
+
+
+
+
 ## Data Model 
 <img width="886" alt="Image" src="https://github.com/user-attachments/assets/1713a0b0-5b6a-441c-b17e-00d08d3c2cad" />
+
+
 
 ## KPIs Evaluated
 1. % Electricity Demand_L5Y
@@ -123,4 +150,5 @@ RETURN
 
 ## Business Impact
 - Actionable recommendations for stakeholders in the EV market, based on data-driven insights. This could include suggestions for government policy, infrastructure development, or industry innovation.
+
 
