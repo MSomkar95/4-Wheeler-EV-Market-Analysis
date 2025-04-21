@@ -1,6 +1,6 @@
 # EV MARKET ANALYSIS: UNLOCKING INSIGHTS ACROSS CARS, TRUCKS, VANS, AND BUSES
 
-![File_Thumbnail](https://github.com/user-attachments/assets/bde9f1ce-c069-4ca8-b051-bc8bb6e86f1f)
+![File_Thumbnail](https://app.powerbi.com/view?r=eyJrIjoiOTRlOWNlNzktNTk0Ni00YmEwLTk4MDAtOWJjYTI5YzZkNTg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 - **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
 -  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://www.datascienceportfol.io/dataInsightsOmkar/projects/0)  
