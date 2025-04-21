@@ -1,4 +1,4 @@
-# 4-WHEELER EV MARKET ANALYSIS-2024
+# EV MARKET ANALYSIS: UNLOCKING INSIGHTS ACROSS CARS, TRUCKS, VANS, AND BUSES
 
 ![File_Thumbnail](https://github.com/user-attachments/assets/bde9f1ce-c069-4ca8-b051-bc8bb6e86f1f)
 
