@@ -17,12 +17,15 @@
 - [Business Impact](#business-impact)
 
 ## Business Objective
-- An ambitious project based on 2024 IEA Global EV Outlook Report, whose purpose is intended for strategic planning.
-Ascertains the current market scenario using data highlighting the performance analysis of the markets across different areas like stock, sales, stock share, sales share, availability 
-of charging infrastructure, Energy transition, 4-Wheeler EV Electricity Demand by framing informed actionable recommentations for the EV businesses to work on.
-- The region focused in this analysis are: USA, China, Japan, Europe, India and the World (for reference)
-- Prediction based on APS (Announced Pledges Scenario) and STEPS (Sustainable Development Scenario) are respectively present in the dataset and is also analyzed to chart the path ahead of the 
- probable factors which could drive the EV Market further for e.g. India currently has only a 2% market penetration, this study could help us understand the probable factors which could drive the further growth in the country.
+This project delivers actionable insights into global EV adoption trends by analyzing vehicle powertrain data, CO₂ displacement, charging infrastructure, and future projections. The dashboard enables policy makers, automotive industry executives, and data analysts to explore:
+
+  📈 Historical Trends (2010–2023): EV sales & stock growth across multiple regions
+  
+  🔮 Future Projections (2025–2035): APS vs. STEPS policy scenarios & market penetration metrics
+  
+  ⚡ India’s Emerging Leadership: Post-FAME II & PLI schemes driving BEV dominance
+  
+  🔍 Key Business Metrics: Oil displacement, charging infrastructure optimization & policy-driven sales
 
           APS: Ambitious approach which assumes the introduction of innovative policies
           STEPS: Conservative approach assuming the continuation of present policy
