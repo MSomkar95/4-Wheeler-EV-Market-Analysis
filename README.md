@@ -1,7 +1,7 @@
 # EV MARKET ANALYSIS: UNLOCKING INSIGHTS ACROSS CARS, TRUCKS, VANS, AND BUSES
 
 ![File_Thumbnail (1)](https://github.com/user-attachments/assets/1592091b-f67f-4b57-b26b-ae9943e8e5d9)
-
+- End-to-end Power BI solution analyzing IEA's 2024 Global EV Outlook (trends across vehicle segments & powertrain types, 2010-2035). Features Figma design & 25+ unique complex DAX measures, delivering interactive insights for strategic policy/business decisions, emphasizing India's market role.
 - **Ideal for policy makers and business executives to understand the EV Global Market dynamics in the 4+ Wheelers vehicle segment.**
 -  [Global EV Market Analysis: Unlocking Insights Across Cars, Trucks, Vans, and Buses](https://app.powerbi.com/view?r=eyJrIjoiOTRlOWNlNzktNTk0Ni00YmEwLTk4MDAtOWJjYTI5YzZkNTg5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)  
 
